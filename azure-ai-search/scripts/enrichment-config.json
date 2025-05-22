@@ -1,0 +1,14 @@
+{
+  "skills": [
+    {
+      "skillName": "Language Detection",
+      "inputs": ["content"],
+      "outputs": ["language"]
+    },
+    {
+      "skillName": "Key Phrase Extraction",
+      "inputs": ["content"],
+      "outputs": ["keyPhrases"]
+    }
+  ]
+}

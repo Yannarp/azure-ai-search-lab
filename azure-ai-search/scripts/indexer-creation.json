@@ -1,0 +1,8 @@
+{
+  "name": "indexador-cafe",
+  "dataSourceName": "datasource-cafe",
+  "targetIndexName": "index-cafe",
+  "schedule": {
+    "interval": "P1D"
+  }
+}
